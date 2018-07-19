@@ -1370,6 +1370,12 @@ span.hi-icon {
 .footer-grids span {
     display: block;
 }
+.center{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+}
 .footer-grids span a {
     color:#08f3d4;
 }
